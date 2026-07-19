@@ -16,31 +16,19 @@
 - 🧠 500+ DSA problems solved (Striver's A2Z sheet)
 - ⚡ Fun fact: still fixing something, always
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
 ### 🔭 Currently
 ```text
 🎯  Grinding DSA + System Design for placement season
 🏗️  Polishing production-ready full stack projects
 📚  Deep-diving Core Java internals, Streams & Spring Boot
 ```
-
----
-
-### 🌟 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/rishabhdav/kinex_full_stack">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=kinex_full_stack&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/rishabhdav/aromaiq_web">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=aromaiq_web&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/rishabhdav/rag">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=rag&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/rishabhdav/SyncSound">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=SyncSound&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-  </a>
-</p>
 
 ---
 
