@@ -66,13 +66,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=redical&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=F7B32B&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhdav&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishabhdav/rishabhdav/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 
 ### 🏆 Coding Platform Stats
