@@ -74,27 +74,17 @@
   <img src="https://raw.githubusercontent.com/rishabhdav/rishabhdav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 🏆 Coding Platform Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code" />
-</p>
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Frishabhtricywd%2Fprofile&label=GFG%20Score&query=%24.codingScore&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Frishabhtricywd%2Fprofile&label=Problems%20Solved&query=%24.totalProblemsSolved&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://gfgstatscard.vercel.app/rishabhtricywd" />
 </p>
 
 <p align="center">
@@ -102,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cp-logo.netlify.app/codechef/bright_card_63" />
+  <img src="https://cp-logo.vercel.app/codechef/bright_card_63" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
