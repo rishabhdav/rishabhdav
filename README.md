@@ -6,11 +6,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to-Java%20Full%20Stack%20%2F%20SDE%20Roles-success?style=for-the-badge" />
+</p>
+
 ### 🚀 About Me
 - 🎓 B.Tech CSE student, preparing for campus placements (Java Full Stack / SDE roles)
 - 💻 Building end-to-end apps — Spring Boot backends to React frontends
 - 🧠 500+ DSA problems solved (Striver's A2Z sheet)
 - ⚡ Fun fact: still fixing something, always
+
+### 🔭 Currently
+```text
+🎯  Grinding DSA + System Design for placement season
+🏗️  Polishing production-ready full stack projects
+📚  Deep-diving Core Java internals, Streams & Spring Boot
+```
+
+---
+
+### 🌟 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/rishabhdav/kinex_full_stack">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=kinex_full_stack&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/rishabhdav/aromaiq_web">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=aromaiq_web&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/rishabhdav/rag">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=rag&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/rishabhdav/SyncSound">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhdav&repo=SyncSound&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+  </a>
+</p>
 
 ---
 
