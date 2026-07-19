@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="90" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
@@ -11,6 +15,9 @@
 </p>
 
 ### 🚀 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 - 🎓 B.Tech CSE student, preparing for campus placements (Java Full Stack / SDE roles)
 - 💻 Building end-to-end apps — Spring Boot backends to React frontends
 - 🧠 500+ DSA problems solved (Striver's A2Z sheet)
@@ -30,7 +37,11 @@
 📚  Deep-diving Core Java internals, Streams & Spring Boot
 ```
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=4ECDC4&center=true&vCenter=true&width=500&lines=%22Code+never+lies%2C+comments+sometimes+do.%22;%22Consistency+beats+intensity.%22" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -38,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,git,github&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 📊 GitHub Stats
 
@@ -63,21 +74,25 @@
   <img src="https://raw.githubusercontent.com/rishabhdav/rishabhdav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 🏆 Coding Platform Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=rishabhtri&theme=dark&border_color=FF6B6B&text_color=FFFFFF" />
+  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code" />
 </p>
 
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/rating/bright_card_63?theme=dark" />
+  <img src="https://cp-logo.vercel.app/codechef/bright_card_63" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 🌐 Connect with Me
 
