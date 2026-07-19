@@ -1,193 +1,294 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Rishabh%20Tripathi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Building%20scalable%20systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=230&section=header&text=Rishabh%20Tripathi&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=54&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Full+Stack+Capable+(React);500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Engineer+Roles" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%2F%20Backend-38BDF8?style=flat-square&labelColor=0B1120" alt="open to work"/>
+<img src="https://img.shields.io/badge/Location-India-38BDF8?style=flat-square&labelColor=0B1120" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=rishabhdav&label=Profile%20Views&color=38BDF8&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/rishabhdav?label=Followers&style=flat-square&color=38BDF8" alt="followers"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
-```java
-public class RishabhTripathi implements BackendDeveloper {
+## `01` About Me
 
-    private String role        = "Java Backend Developer";
-    private String education   = "B.Tech Computer Science";
-    private String[] targets   = {"SDE", "Java Backend Developer", "Java Full Stack Developer"};
-    private int dsaSolved      = 500; // and counting
+<table>
+<tr>
+<td width="60%" valign="top">
 
-    @Override
-    public void currentFocus() {
-        System.out.println("Building production-grade backend systems with Spring Boot");
-        System.out.println("Sharpening DSA & System Design for SDE interviews");
-    }
-}
+I'm a final-year **B.Tech Computer Science** student who builds backend systems the way I'd want to maintain them — clean layers, sensible security, and APIs that don't surprise their consumers.
+
+Most of my work sits in the **Java + Spring Boot** ecosystem — designing REST APIs, handling authentication with **JWT & Spring Security**, and modeling data with **Hibernate/JPA** on MySQL. I can also ship the frontend in **React** when a project needs one.
+
+Right now I'm preparing for **SDE interviews** — splitting time between backend projects, DSA, and System Design fundamentals.
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+role: Java Backend Developer
+education: B.Tech, Computer Science
+focus: Spring Boot · REST APIs · MySQL
+dsa_solved: 500+
+currently_learning:
+  - System Design
+  - Microservices
+  - Docker
+looking_for: SDE / Backend Roles
 ```
 
-- 🎓 Final-year **B.Tech Computer Science** student
-- 💻 Focused on **Java, Spring Boot, REST APIs, and relational databases**
-- 🌐 Comfortable across the stack — **React** on the frontend when needed
-- 🧠 **500+ DSA problems** solved across multiple platforms
-- 🚀 Currently deepening knowledge of **System Design, Microservices, and Docker**
-- 🎯 Actively interviewing for **SDE / Java Backend / Full Stack** roles
+</td>
+</tr>
+</table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
-## 🛠️ Tech Stack
+## `02` Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="languages" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,postman" alt="backend" />
-<br/>
-<sub>Spring Boot · Spring Security · Hibernate · JPA · REST APIs · JWT Authentication</sub>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react" alt="frontend" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="database" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven" alt="tools" />
+<table>
+<tr>
+<td align="center" width="120"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,js,html,css" alt="languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=spring,hibernate,postman" alt="backend"/>&nbsp;&nbsp;<sub>+ Spring Security · JPA · REST APIs · JWT</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react" alt="frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" alt="database"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven" alt="tools"/></td>
+</tr>
+<tr>
+<td align="center"><b>Learning</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker" alt="learning"/>&nbsp;&nbsp;<sub>+ System Design · Microservices</sub></td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
-## 📊 GitHub Analytics
+## `03` GitHub Dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=react-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=E2E8F0" width="97%" alt="Contribution Graph"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%" alt="contribution graph"/>
-</div>
+## `04` Featured Projects
 
 <br/>
 
-## 💼 Featured Projects
+<table width="100%">
+<tr>
+<td width="100%">
 
-### 🔹 [Employee Leave Management System](https://github.com/rishabhdav/leave-management-system)
-A production-grade full stack leave management system built to mirror real-world enterprise workflows.
+### 🛒 E-Commerce Platform
+**A full stack e-commerce application covering the complete purchase flow — catalog, cart, checkout, and payments.**
 
-- Designed **JWT-based access & refresh token authentication** with a three-tier role hierarchy (`ADMIN > MANAGER > EMPLOYEE`)
-- Built a **Spring Boot REST API** backend with clean layered architecture and MySQL persistence
-- Developed the frontend in **React 18** with a custom design system and SVG-based radial leave balance visualizations
-- Containerized with **Docker** and set up **CI/CD via GitHub Actions**
-- Deployed backend on **Railway** and frontend on **Vercel**, resolving real deployment challenges (env config, seed data hashing, FK constraint ordering)
+**Architecture**
+```
+React (Client) → Spring Boot REST API → Spring Security (JWT Auth) → MySQL
+                                       ↳ Stripe API (Payments)
+```
 
-`Java` `Spring Boot` `React` `MySQL` `JWT` `Docker` `GitHub Actions` `Railway` `Vercel`
+**Key Features**
+- Secure authentication and route protection using **Spring Security + JWT**
+- RESTful APIs for product catalog, cart, and order management
+- Integrated **Stripe** for end-to-end payment processing
+- Relational schema in **MySQL** modeling users, products, and orders
 
----
-
-### 🔹 E-Commerce Platform
-A full stack e-commerce application covering the complete purchase flow — from catalog browsing to secure checkout.
-
-- Implemented secure user authentication using **Spring Security + JWT**
-- Integrated **Stripe** for payment processing
-- Built RESTful APIs for product, cart, and order management, consumed by a **React** frontend
-- Modeled relational schema in **MySQL** for products, orders, and users
+**What I Learned**
+> Structuring a Spring Boot project into clean service/repository/controller layers, and handling stateful cart logic on a stateless JWT-secured API.
 
 `Java` `Spring Boot` `React` `MySQL` `JWT` `Spring Security` `Stripe`
 
----
+</td>
+</tr>
+</table>
 
-### 🔹 Blog Application REST API
-A backend-focused blogging platform emphasizing clean API design and security.
+<br/>
 
-- Built RESTful endpoints for posts, comments, and user management using **Spring Boot**
-- Secured endpoints with **Spring Security** and **JWT authentication**
-- Used **Hibernate** for ORM-based data persistence with MySQL
-- Documented all endpoints with **Swagger** for easy API consumption and testing
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 📝 Blog Application REST API
+**A backend-focused blogging platform built around clean, well-documented API design.**
+
+**Architecture**
+```
+Client → Spring Boot REST Controllers → Spring Security (JWT) → Hibernate/JPA → MySQL
+                                                              ↳ Swagger (API Docs)
+```
+
+**Key Features**
+- RESTful endpoints for posts, comments, and user management
+- **Spring Security + JWT** protected routes with role-based access
+- **Hibernate/JPA** for ORM-based persistence over MySQL
+- Fully documented API via **Swagger**, testable without a frontend
+
+**What I Learned**
+> Designing REST resources and status codes that make sense to a consumer who's never seen the codebase — and why good API docs are part of the engineering, not an afterthought.
 
 `Java` `Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL` `Swagger`
 
----
+</td>
+</tr>
+</table>
 
-### 🔹 SQL Data Warehouse Analytics
-A data warehousing project focused on structuring raw data for efficient analytical querying.
+<br/>
 
-- Designed a **Star Schema** for optimized analytical queries
-- Built **ETL pipelines** to clean, transform, and load data into the warehouse
-- Wrote complex **T-SQL** queries for reporting and analytics use cases
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 📊 SQL Data Warehouse Analytics
+**A data warehousing project focused on structuring raw data for fast, reliable analytical queries.**
+
+**Architecture**
+```
+Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T-SQL Reporting
+```
+
+**Key Features**
+- Designed a **Star Schema** to separate facts from dimensions for query performance
+- Built **ETL pipelines** to clean, transform, and load raw data
+- Wrote complex **T-SQL** queries for analytical reporting
+
+**What I Learned**
+> How schema design decisions upstream directly affect query performance and reporting complexity downstream.
 
 `SQL` `ETL` `Star Schema`
 
-<br/>
-
-## 🏆 Coding Profiles
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| Platform | Profile |
-|---|---|
-| 🟠 **LeetCode** | [rishabhtri](https://leetcode.com/u/rishabhtri/) |
-| 🟢 **GeeksforGeeks** | [rishabhtricywd](https://www.geeksforgeeks.org/profile/rishabhtricywd) |
-| 🟤 **CodeChef** | [bright_card_63](https://www.codechef.com/users/bright_card_63) |
-| 🟩 **HackerRank** | [rishabhtripath49](https://www.hackerrank.com/profile/rishabhtripath49) |
-| 🔵 **Codolio (Unified Stats)** | [View Profile](https://codolio.com/profile/mHlpjSWV) |
+<sub>More on <a href="https://github.com/rishabhdav?tab=repositories">github.com/rishabhdav</a></sub>
 
 </div>
 
-> 500+ DSA problems solved across these platforms, with Java as the primary language for problem-solving.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
+## `05` Coding Profiles
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**🟠 LeetCode**
 <br/>
+<a href="https://leetcode.com/u/rishabhtri/">rishabhtri</a>
 
-## 🧭 Learning Roadmap
+</td>
+<td align="center" width="20%">
+
+**🟢 GeeksforGeeks**
+<br/>
+<a href="https://www.geeksforgeeks.org/profile/rishabhtricywd">rishabhtricywd</a>
+
+</td>
+<td align="center" width="20%">
+
+**🟤 CodeChef**
+<br/>
+<a href="https://www.codechef.com/users/bright_card_63">bright_card_63</a>
+
+</td>
+<td align="center" width="20%">
+
+**🟩 HackerRank**
+<br/>
+<a href="https://www.hackerrank.com/profile/rishabhtripath49">rishabhtripath49</a>
+
+</td>
+<td align="center" width="20%">
+
+**🔵 Codolio**
+<br/>
+<a href="https://codolio.com/profile/mHlpjSWV">Unified Stats</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+
+## `06` Achievements
+
+<div align="center">
+
+| 🧩 DSA | 🏗️ Backend Projects | 🔌 REST APIs | 🔐 Security | 📐 System Design |
+|:---:|:---:|:---:|:---:|:---:|
+| 500+ problems solved | 3 end-to-end projects | Designed & documented | Spring Security + JWT | Actively learning |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+
+## `07` Current Learning Roadmap
 
 ```
-[✔] Core Java & OOP
-[✔] Spring Boot / Spring Security / Hibernate / JPA
-[✔] REST API Design & JWT Authentication
-[✔] React Fundamentals
-[▶] System Design (HLD / LLD)
-[▶] Microservices Architecture
-[▶] Docker & Containerization
+✅  Core Java & OOP
+✅  Spring Boot · Spring Security · Hibernate · JPA
+✅  REST API Design & JWT Authentication
+✅  React Fundamentals
+🔄  System Design (HLD / LLD)          — in progress
+🔄  Microservices Architecture         — in progress
+🔄  Docker & Containerization          — in progress
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
-## 📫 Connect With Me
+## `08` Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/rishabhdav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/rishabhtri/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 </div>
@@ -195,7 +296,7 @@ A data warehousing project focused on structuring raw data for efficient analyti
 <br/>
 
 <div align="center">
-<sub>Thanks for stopping by — always open to connecting on backend engineering, DSA, or SDE opportunities.</sub>
+<sub>Thanks for visiting — always glad to connect on backend engineering, DSA, or SDE opportunities.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=140&section=footer" width="100%"/>
