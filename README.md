@@ -75,10 +75,19 @@
 </p>
 
 
+
 ### 🏆 Coding Platform Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/rishabhtricywd" />
 </p>
 
 <p align="center">
