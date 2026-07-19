@@ -131,3 +131,119 @@ class Developer {
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </p>
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,git,github,docker,maven,idea,vscode,postman"/>
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚙ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JPA-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🧰 Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,idea,vscode,postman"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚡ Core Strengths
+
+| Backend | Security | Database | Frontend | Tools |
+|----------|----------|----------|----------|-------|
+| Java | Spring Security | MySQL | React | Git |
+| Spring Boot | JWT | SQL | HTML/CSS | GitHub |
+| REST APIs | Authentication | JPA/Hibernate | JavaScript | Maven |
+| Clean Architecture | Role-Based Access | Query Optimization | Responsive UI | Postman |
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</p>
