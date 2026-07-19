@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rishabh+Tripathi;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;500%2B+DSA+Problems+Solved;Always+Learning+🚀" />
-</h1>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:00C9FF,100:92FE9D"/>
@@ -181,16 +179,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&t
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=rishabhdav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
 
 # 📅 GitHub Summary
 
@@ -228,13 +217,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 </p>
 # 💻 Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/u/rishabhtri/">
-<img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=JetBrains+Mono&ext=contest" />
-</a>
-
-</p>
 
 <p align="center">
 
@@ -295,17 +277,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 ---
 
-# 🚀 Coding Goals
 
-✅ Solve 700+ DSA Problems
-
-✅ Master Low-Level Design
-
-✅ Master High-Level System Design
-
-✅ Build Scalable Backend Applications
-
-✅ Crack SDE-1 / Java Backend Roles
 
 ---
 
@@ -428,7 +400,6 @@ Designed and implemented a data warehouse for analytical reporting using SQL, di
 
 ### ⚡ Tech Stack
 
-- PostgreSQL
 - SQL
 - ETL
 - Star Schema
