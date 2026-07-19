@@ -479,9 +479,45 @@ Designed and implemented a data warehouse for analytical reporting using SQL, di
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
-<a href="https://codolio.com/profile/mHlpjSWV">
-<img src="https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge"/>
+# 💻 Competitive Programming
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<a href="https://leetcode.com/u/rishabhtri/">
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.geeksforgeeks.org/profile/rishabhtricywd">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-success?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.codechef.com/users/bright_card_63">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://codolio.com/profile/mHlpjSWV">
+<img src="https://img.shields.io/badge/Codolio-Coding%20Dashboard-6C5CE7?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <a href="https://www.hackerrank.com/profile/rishabhtripath49">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
