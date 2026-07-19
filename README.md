@@ -487,7 +487,7 @@ Designed and implemented a data warehouse for analytical reporting using SQL, di
 <td align="center" width="25%">
 
 <a href="https://leetcode.com/u/rishabhtri/">
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </td>
