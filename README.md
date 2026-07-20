@@ -92,10 +92,10 @@ looking_for: SDE / Backend Roles
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-ten-theta-48.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-ten-theta-48.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400&t=0" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats-ten-theta-48.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-ten-theta-48.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400&t=0" alt="Top Languages" width="48%"/>
 
 <br/>
 
@@ -252,6 +252,10 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 </td>
 </tr>
 </table>
+
+<a href="https://codolio.com/profile/mHlpjSWV">
+<img src="https://codolio.com/api/og/mHlpjSWV?t=0" alt="Codolio Unified Coding Profile" width="600"/>
+</a>
 
 </div>
 
