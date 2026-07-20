@@ -92,10 +92,10 @@ looking_for: SDE / Backend Roles
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-ten-theta-48.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-ten-theta-48.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400" alt="Top Languages" width="48%"/>
 
 <br/>
 
@@ -104,11 +104,9 @@ looking_for: SDE / Backend Roles
 </div>
 
 <!--
-  Note: these widgets run on the shared public github-readme-stats.vercel.app instance,
-  which occasionally goes down (503 / rate limits) because it's used by thousands of profiles.
-  A cache_seconds param has been added above to reduce refresh frequency and dodge some rate limits.
-  If cards still don't render reliably, self-host your own instance:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Stats widgets above are served from a self-hosted github-readme-stats instance
+  (github-readme-stats-ten-theta-48.vercel.app) with a personal GitHub token configured,
+  avoiding the rate limits of the shared public instance.
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
