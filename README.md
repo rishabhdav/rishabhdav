@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=230&section=header&text=Rishabh%20Tripathi&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=54&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=1784597304&section=header&text=Rishabh%20Tripathi&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=54&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Engineer+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=1784597304&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Engineer+Roles" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `01` About Me
 
@@ -51,7 +51,7 @@ looking_for: SDE / Backend Roles
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `02` Tech Stack
 
@@ -86,16 +86,16 @@ looking_for: SDE / Backend Roles
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `03` GitHub Dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-ten-theta-48.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400&t=0" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-ten-theta-48.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400&t=1784597304" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats-ten-theta-48.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400&t=0" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats-ten-theta-48.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400&t=1784597304" alt="Top Languages" width="48%"/>
 
 <br/>
 
@@ -109,7 +109,7 @@ looking_for: SDE / Backend Roles
   avoiding the rate limits of the shared public instance.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `04` Featured Projects
 
@@ -207,7 +207,7 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `05` Coding Profiles
 
@@ -254,12 +254,12 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 </table>
 
 <a href="https://codolio.com/profile/mHlpjSWV">
-<img src="https://codolio.com/api/og/mHlpjSWV?t=0" alt="Codolio Unified Coding Profile" width="600"/>
+<img src="https://codolio.com/api/og/mHlpjSWV?t=1784597304" alt="Codolio Unified Coding Profile" width="600"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `06` Achievements
 
@@ -271,7 +271,7 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `07` Current Learning Roadmap
 
@@ -285,7 +285,7 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 🔄  Docker & Containerization          — in progress
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=1784597304&width=1000" width="100%"/>
 
 ## `08` Connect With Me
 
@@ -309,4 +309,4 @@ Raw Source Data → ETL Pipeline → Star Schema (Fact & Dimension Tables) → T
 <sub>Thanks for visiting — always glad to connect on backend engineering, DSA, or SDE opportunities.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=1784597304&section=footer" width="100%"/>
