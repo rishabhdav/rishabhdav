@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=1784683672&section=header&text=Rishabh%20Tripathi&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=54&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=200&section=header&text=Rishabh%20Tripathi&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=54&descSize=20&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=1784683672&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Engineer+Roles" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;500%2B+DSA+Problems+Solved;Open+to+SDE+%2F+Backend+Engineer+Roles" />
 </a>
 
 <br><br>
@@ -103,11 +103,8 @@ DSA:
 
 <div align="center">
 
+<!-- TODO: swap github-readme-stats.vercel.app for your self-hosted Vercel instance once deployed, to avoid public-instance rate limits -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true"/>
-
-<br>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -238,16 +235,6 @@ DSA:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -286,6 +273,6 @@ DSA:
 
 *"Building scalable backend systems one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=1784683672&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=200&section=footer"/>
 
 </div>
