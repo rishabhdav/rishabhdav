@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 ### Backend Engineer &nbsp;|&nbsp; Java / Spring Boot
 Building REST APIs that don't fall over &nbsp;·&nbsp; 500+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
@@ -233,7 +233,7 @@ Also solving on [neetcode-submissions](https://github.com/rishabhdav/neetcode-su
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 ### Let's Connect
 
