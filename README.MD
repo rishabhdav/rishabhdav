@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="header.svg" width="100%"/>
+<img src=".github/header.svg" width="100%"/>
 
 ### Backend Engineer &nbsp;|&nbsp; Java / Spring Boot
 Building REST APIs that don't fall over &nbsp;·&nbsp; 500+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
