@@ -3,7 +3,7 @@
 <img src=".github/header.svg" width="100%"/>
 
 ### Backend Engineer &nbsp;|&nbsp; Java / Spring Boot
-Building REST APIs that don't fall over &nbsp;·&nbsp; 500+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
+Building REST APIs that don't fall over &nbsp;·&nbsp; 700+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
 
 <br/>
 
@@ -31,7 +31,7 @@ Building REST APIs that don't fall over &nbsp;·&nbsp; 500+ DSA Problems Solved 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/"><img src="https://img.shields.io/badge/📩%20Let's%20Talk-Message%20me%20on%20LinkedIn-FF6EC7?style=for-the-badge&labelColor=1a1a2e"/></a>
 <a href="https://codolio.com/profile/mHlpjSWV"><img src="https://img.shields.io/badge/📊%20View%20Full%20Coding%20Profile-Codolio-38BDF8?style=for-the-badge&labelColor=1a1a2e"/></a>
 
-**Quick pitch:** 500+ DSA problems solved · Java/Spring Boot backend projects with JWT auth & MySQL · Strong in REST API design · Ready for a technical round whenever you are.
+**Quick pitch:** 700+ DSA problems solved · Java/Spring Boot backend projects with JWT auth & MySQL · Strong in REST API design · Ready for a technical round whenever you are.
 
 </div>
 
@@ -221,7 +221,7 @@ Also solving on [neetcode-submissions](https://github.com/rishabhdav/neetcode-su
 [x] Spring Boot, Spring Security, JWT
 [x] Hibernate / JPA, MySQL
 [x] REST API design
-[x] 500+ DSA problems
+[x] 700+ DSA problems
 [ ] System Design fundamentals
 [ ] Docker & containerization
 [ ] Microservices architecture
