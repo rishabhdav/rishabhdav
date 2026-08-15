@@ -173,7 +173,7 @@ Ongoing DSA practice repo — problem-wise Java solutions across arrays, trees, 
 
 <img src="https://img.shields.io/badge/%F0%9F%92%BB%20DSA%20%26%20Competitive%20Programming-EAB308?style=for-the-badge&labelColor=1a1a2e" />
 
-500+ problems solved across arrays, strings, trees, graphs, dynamic programming, greedy, and backtracking.
+700+ problems solved across arrays, strings, trees, graphs, dynamic programming, greedy, and backtracking.
 
 <div align="center">
 
