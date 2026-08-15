@@ -43,7 +43,7 @@ I'm a backend-focused developer who likes building things that don't break under
 
 - 🔭 Building backend projects with Spring Boot, Spring Security, and MySQL
 - 🌱 Leveling up on Docker, Microservices, and System Design
-- 💡 500+ DSA problems across Arrays, Trees, Graphs, DP, Greedy, Backtracking
+- 💡 700+ DSA problems across Arrays, Trees, Graphs, DP, Greedy, Backtracking
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishabh-tripathi-096833284/)
 
 <br/>
