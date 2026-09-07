@@ -24,7 +24,7 @@ Building REST APIs that don't fall over &nbsp;·&nbsp; 800+ DSA Problems Solved 
 <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20For%20Recruiters-FF6EC7?style=for-the-badge&labelColor=1a1a2e" />
 
 > I'm actively looking for **SDE / Backend Engineer** opportunities (Java, Spring Boot).
-> Placement window opens **September 8, 2026** — happy to jump on a quick call or take a technical interview anytime.
+
 
 <div align="center">
 
