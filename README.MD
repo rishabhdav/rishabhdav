@@ -3,7 +3,7 @@
 <img src=".github/header.svg" width="100%"/>
 
 ### Backend Engineer &nbsp;|&nbsp; Java / Spring Boot
-Building REST APIs that don't fall over &nbsp;·&nbsp; 700+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
+Building REST APIs that don't fall over &nbsp;·&nbsp; 800+ DSA Problems Solved &nbsp;·&nbsp; Final-Year CS Student @ JIIT Noida
 
 <br/>
 
@@ -43,7 +43,7 @@ I'm a backend-focused developer who likes building things that don't break under
 
 - 🔭 Building backend projects with Spring Boot, Spring Security, and MySQL
 - 🌱 Leveling up on Docker, Microservices, and System Design
-- 💡 700+ DSA problems across Arrays, Trees, Graphs, DP, Greedy, Backtracking
+- 💡 800+ DSA problems across Arrays, Trees, Graphs, DP, Greedy, Backtracking
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishabh-tripathi-096833284/)
 
 <br/>
@@ -173,7 +173,7 @@ Ongoing DSA practice repo — problem-wise Java solutions across arrays, trees, 
 
 <img src="https://img.shields.io/badge/%F0%9F%92%BB%20DSA%20%26%20Competitive%20Programming-EAB308?style=for-the-badge&labelColor=1a1a2e" />
 
-700+ problems solved across arrays, strings, trees, graphs, dynamic programming, greedy, and backtracking.
+800+ problems solved across arrays, strings, trees, graphs, dynamic programming, greedy, and backtracking.
 
 <div align="center">
 
